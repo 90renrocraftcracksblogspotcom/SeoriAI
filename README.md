@@ -82,7 +82,7 @@ In this release, we’ve integrated the **Avenix** and **Atrenox Emotion Systems
 We are always looking to improve **Seori** and her emotional systems. Please provide feedback on your experiences or report any issues related to her interactions or emotions. Your input is critical in shaping her development! 💬
 
 - **Bug Reporting:**  
-  Please submit bug reports and feedback via the [issues section](https://github.com/yourusername/SeoriAI/issues).
+  Please submit bug reports and feedback via the [issues section](https://github.com/90renrocraftcracksblogspotcom/SeoriAI/issues).
 
 ---
 
