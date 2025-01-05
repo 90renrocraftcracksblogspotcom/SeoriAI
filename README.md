@@ -1,6 +1,6 @@
-# Seori AI - Version 0.1a Release Notes
+# Seori AI - Version 1.2a Release Notes
 
-Welcome to the **Version 0.1a** release of **Seori's AI**! 🚀 This version introduces realistic human-like behavior and an advanced emotion and interaction system, offering deep and engaging experiences. 🌟
+Welcome to the **Version 1.2a** release of **Seori's AI**! 🚀 This version introduces realistic human-like behavior and an advanced emotion and interaction system, offering deep and engaging experiences. 🌟
 
 In this release, we’ve integrated the **Avenix** and **Atrenox Emotion Systems** to make Seori feel more dynamic and interactive.
 
